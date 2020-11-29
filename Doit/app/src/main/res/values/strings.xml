@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Doit</string>
+    <string name="welcome_msg">Welcome Coder!!</string>
+    <string name="choose_filter">Select the category of questions :</string>
+    <string name="choose_company">Choose a Company</string>
+    <string-array name="company_list">
+        <item>None</item>
+        <item>DEShaw</item>
+        <item>Goldman Sachs</item>
+        <item>Google</item>
+        <item>Microsoft</item>
+        <item>Uber</item>
+    </string-array>
+    <string name="choose_topic">Choose a topic</string>
+    <string-array name="topic_list">
+        <item>None</item>
+        <item>Arrays</item>
+        <item>Stack</item>
+        <item>Queue</item>
+        <item>Linked list</item>
+        <item>Heaps</item>
+        <item>Recursion</item>
+        <item>Dynamic Programming</item>
+        <item>Greedy Algorithms</item>
+        <item>Graph Traversal</item>
+        <item>Bit Masking</item>
+    </string-array>
+    <string name="choose_type_of_interview">Choose the type of interview</string>
+    <string-array name="type_of_interview_list">
+        <item>None</item>
+        <item>Online Written test</item>
+        <item>Personal Interview</item>
+        <item>Onsite Interview</item>
+    </string-array>
+    <string name="choose_college">Choose a college</string>
+    <string-array name="college_list">
+        <item>None</item>
+        <item>IIT Bombay</item>
+        <item>IIT Delhi</item>
+        <item>IIT Kharagpur</item>
+        <item>IIT Madras</item>
+        <item>IIT Roorkee</item>
+    </string-array>
+    <string name="choose_nature_of_job">Choose the nature of job</string>
+    <string name="content">question</string>
+    <string-array name="nature_of_job">
+        <item>None</item>
+        <item>Internship</item>
+        <item>Placements</item>
+    </string-array>
+</resources>
